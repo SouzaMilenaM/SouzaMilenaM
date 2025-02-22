@@ -1,4 +1,3 @@
-👋 Olá, sou a Milena!
 💻 Estudante de Análise e Desenvolvimento de Sistemas na UMC | 📍 Suzano - SP
 🚀 Apaixonada por tecnologia, programação e inovação
 
